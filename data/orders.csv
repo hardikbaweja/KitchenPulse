@@ -1,0 +1,11 @@
+order_id,brand,aggregator,prep_time,order_time,committed_time,status,station,prep_started_at
+KP101,Faasos,Swiggy,8,12:00,12:20,Preparing,B,12:14
+KP102,Behrouz,Zomato,20,12:00,12:30,Queued,, 
+KP103,Oven Story,Swiggy,12,12:00,12:25,Queued,,
+KP104,Faasos,Zomato,8,12:05,12:25,Queued,,
+KP105,Behrouz,Swiggy,20,12:08,12:40,Queued,,
+KP106,Oven Story,Zomato,12,12:10,12:35,Preparing,C,12:10
+KP107,Faasos,Swiggy,8,12:12,12:30,Ready,B,
+KP108,Behrouz,Zomato,20,12:15,12:50,Queued,,
+KP109,Faasos,Swiggy,8,12:18,12:35,Queued,,
+KP110,Oven Story,Zomato,12,12:20,12:45,Queued,,
